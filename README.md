@@ -43,4 +43,4 @@ In this section the project will generate for you a folder called build/ select 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Al-medinet/WebDesignPrototype/blob/master/LICENSE) file for details
